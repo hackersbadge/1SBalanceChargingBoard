@@ -1,1 +1,3 @@
-This is how the charger looks like
+Charger setup: Balance charge 6 x 1s 450Mah Battries
+
+
